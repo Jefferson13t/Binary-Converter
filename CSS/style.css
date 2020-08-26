@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 0, 46);
+    position: relative;
+    
+}
+div#conv {
+    text-align: center;
+    margin-top: 300px;
+    background-color: lightblue;
+    margin-left: 600px;
+    margin-right: 600px;
+    position: absolute;
+    border-radius: 20px;
+    padding: 20px;
+} 
+p {
+    font: normal 20px arial; 
+}
