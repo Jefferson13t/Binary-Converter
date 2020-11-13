@@ -1,5 +1,8 @@
 This is a binary converter made to train my problems solution capability and algorithm.
 
+![screenshot3](https://user-images.githubusercontent.com/67127849/99117703-f04ffb00-25d4-11eb-9341-18bb9dfecfb9.png)
+
+
 The challenge of this is to take any binary value and transform in a decimal value. to make this, i 
 splitted the problem in: data entries, where i shoud let in only binary values and no other; 
 treatment of data, where i should discover a way of transforming this values into decimal values; 
